@@ -1,5 +1,5 @@
 # Project: Build the charity: water Landing Page
-Transformed Canva mockup into a fully functional landing page using HTML and CSS. Made my concept — brand visuals, messaging, and imagery — and made it real.
+Transformed Canva mockup into a fully functional landing page using HTML and CSS. Made my concept (had brand visuals, messaging, and imagery) and put it into this landing page.
 
 This is just a focus on structuring content, applying charity:water brand style, and creating a polished final product that reflects its vision. The landing page is a live, interactive page deployed to the web.
 
